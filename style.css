@@ -1,0 +1,31 @@
+a {text-decoration: none;}
+
+
+  @font-face {
+ font-family: 'name'; /*a name to be used later*/
+ src: url(resources/font.ttf); /*URL to font*/
+}
+
+
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+body {
+
+  background-image: url(resources/bg.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+hr {
+border-color: #00ff00;
+width: 75%;
+size: 40;
+
+}
