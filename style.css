@@ -28,9 +28,16 @@ body {
 }
 
 #covers{
-
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #covers img {
-   height: 42px;
+  height: 24%;
+  padding-left: 5.3%;
+  padding-right: 5.3%;
+  padding-bottom: 3.5%;
+
 }
