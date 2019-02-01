@@ -1,2 +1,3 @@
-# sethtrei.github.io
-Personal Portfolio
+# Treitones website
+
+Personal website for musician.
