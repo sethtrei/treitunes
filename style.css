@@ -12,7 +12,9 @@ a {text-decoration: none;}
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 80%;
+  top: -100px;
+
 }
 
 body {
@@ -20,12 +22,15 @@ body {
   background-image: url(resources/bg.jpeg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position-x: 20%;
+
+
 }
 
+#covers{
 
-hr {
-border-color: #00ff00;
-width: 75%;
-size: 40;
+}
 
+#covers img {
+   height: 42px;
 }
