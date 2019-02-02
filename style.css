@@ -53,10 +53,10 @@ body {
   #covers{
     list-style: none;
     display: inline;
-    max-width:90%;
+    max-width:50%;
     min-width:500px;
     max-height:500px;
-    min-height:21%;
+    min-height:4%;
   }
   #covers img {
 
