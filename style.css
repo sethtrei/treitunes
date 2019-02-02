@@ -7,7 +7,14 @@ a {text-decoration: none;}
 }
 
 
+audio{
+  display:block;
+  margin:auto;
+  text-align: center;
+  color: black;
+  
 
+}
 
 #logo{
   display: block;
