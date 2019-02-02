@@ -31,7 +31,7 @@ body {
 
   margin: 0 auto;
   height: 80%;
-  width: 20%;
+
   text-align: center;
   display: block;
   margin-left: auto;
@@ -43,8 +43,7 @@ body {
   list-style: none;
   display: inline;
   white-space: nowrap;
-  height: 38%;
-  width:
+  height: 14%;
   padding-left: 2.3%;
   padding-right: 2.3%;
   padding-bottom: 3.5%;
